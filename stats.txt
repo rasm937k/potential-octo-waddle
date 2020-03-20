@@ -1,0 +1,35 @@
+-----
+17-03-2020 15:49
+WashType: De Luxe
+ID: 1, Name: Janus Pedersen
+-----
+-----
+20-03-2020 13:07
+WashType: De Luxe
+ID: 1, Name: Janus Pedersen
+-----
+-----
+20-03-2020 13:08
+WashType: Economy (discount)
+ID: 1, Name: Janus Pedersen
+-----
+-----
+20-03-2020 13:08
+WashType: De Luxe
+ID: 1, Name: Janus Pedersen
+-----
+-----
+20-03-2020 13:09
+WashType: De Luxe
+ID: 1, Name: Janus Pedersen
+-----
+-----
+20-03-2020 13:12
+WashType: De Luxe
+ID: 1, Name: Janus Pedersen
+-----
+-----
+20-03-2020 13:19
+WashType: Standard (discount)
+ID: 1, Name: Janus Pedersen
+-----
