@@ -1,11 +1,9 @@
 public class WashCard {
     private int cardID;
-
-    private int money;
-
+    private double money;
     private boolean adminStatus;
 
-    public WashCard(int cardID, int money, boolean adminStatus){
+    public WashCard(int cardID, double money, boolean adminStatus){
         this.cardID = cardID;
         this.money = money;
         this.adminStatus = adminStatus;
@@ -15,19 +13,15 @@ public class WashCard {
         return cardID;
     }
 
-    public int getMoney() {
+    public double getMoney() {
         return money;
     }
 
-    public void setMoney(int money) {
+    public void setMoney(double money) {
         this.money = money;
     }
 
     public boolean isAdminStatus() {
         return adminStatus;
-    }
-
-    public void setAdminStatus(boolean adminStatus) {
-        this.adminStatus = adminStatus;
     }
 }
